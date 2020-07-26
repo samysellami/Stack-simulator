@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samy/CLionProjects/Stacks/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+sys/wait.h
+-
+limits.h
+-
+string.h
+-
+

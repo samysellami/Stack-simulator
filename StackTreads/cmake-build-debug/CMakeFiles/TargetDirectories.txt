@@ -1,0 +1,3 @@
+D:/Innopolis Courses/Low level and embedded programming/Assignements/Assignment2/StackTreads/cmake-build-debug/CMakeFiles/StackTreads.dir
+D:/Innopolis Courses/Low level and embedded programming/Assignements/Assignment2/StackTreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Innopolis Courses/Low level and embedded programming/Assignements/Assignment2/StackTreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
